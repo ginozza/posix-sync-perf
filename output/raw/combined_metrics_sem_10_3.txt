@@ -1,0 +1,5 @@
+Command exited with non-zero status 124
+Time: 20.00 0.01 0.03 0%
+Mem: 1732
+CtxVoluntary: 3063
+CtxInvoluntary: 15
